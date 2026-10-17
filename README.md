@@ -27,3 +27,26 @@ An end-to-end data analytics project analyzing sales, profitability, product per
 
 ## Objective
 To identify business performance trends and provide data-driven insights to support sales and profitability decisions.
+
+## Python Data Visualizations
+
+### Sales by Category
+![Sales by Category](python/charts/sales_by_category.png)
+
+### Profit by Category
+![Profit by Category](python/charts/profit_by_category.png)
+
+### Sales by Region
+![Sales by Region](python/charts/sales_by_region.png)
+
+### Profit by Sub-Category
+![Profit by Sub-Category](python/charts/profit_by_subcategory.png)
+
+### Sales by Customer Segment
+![Sales by Customer Segment](python/charts/sales_by_segment.png)
+
+### Profit by Discount Level
+![Profit by Discount Level](python/charts/profit_by_discount.png)
+
+### Returned vs Not Returned Orders
+![Returned vs Not Returned Orders](python/charts/returned_vs_not_returned.png)
